@@ -1,2 +1,0 @@
-# Esoteric languages
-

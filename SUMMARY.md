@@ -1,24 +1,29 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Index](README.md)
 
-## The Company
+## Knowledge
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Food, Drink](knowledge/food-drink/README.md)
+  * [Coffee](knowledge/food-drink/coffee.md)
+* ["Productivity"](knowledge/productivity/README.md)
+  * [Personal Knowledge Management](knowledge/productivity/personal-knowledge-management/README.md)
+    * [Digital Gardening](knowledge/productivity/personal-knowledge-management/digital-gardening.md)
+* [Programming Languages](knowledge/programming-languages/README.md)
+  * [Golang](knowledge/programming-languages/golang.md)
+  * [Python](knowledge/programming-languages/python.md)
+  * [Esoteric languages](knowledge/programming-languages/esoteric-languages/README.md)
+    * [Befunge](knowledge/programming-languages/esoteric-languages/befunge.md)
+    * [Brainfuck](knowledge/programming-languages/esoteric-languages/brainfuck.md)
+    * [Piet](knowledge/programming-languages/esoteric-languages/piet.md)
+  * [APL](knowledge/programming-languages/apl.md)
+  * [C](knowledge/programming-languages/c.md)
+  * [Racket](knowledge/programming-languages/racket.md)
 
-## The Formal Stuff
+## Reading notes
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
-
-***
-
-* [Programming Languages](programming-languages/README.md)
-  * [Golang](programming-languages/golang.md)
-  * [Python](programming-languages/python.md)
-  * [Esoteric languages](programming-languages/esoteric-languages/README.md)
-    * [Befunge](programming-languages/esoteric-languages/befunge.md)
-    * [Brainfuck](programming-languages/esoteric-languages/brainfuck.md)
-    * [Piet](programming-languages/esoteric-languages/piet.md)
-  * [APL](programming-languages/apl.md)
+* [Papers](reading-notes/papers/README.md)
+  * [Polski — Life's Irreducible Structure](reading-notes/papers/polski-lifes-irreducible-structure.md)
+  * [Minsky — Why People Think Computers Can't](reading-notes/papers/minsky-why-people-think-computers-cant.md)
+  * [Hamilton — What the Errors Tell Us](reading-notes/papers/hamilton-what-the-errors-tell-us.md)
+  * [Iverson — Notation as a Tool of Thought](reading-notes/papers/iverson-notation-as-a-tool-of-thought.md)
