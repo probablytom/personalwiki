@@ -4,12 +4,14 @@
 
 ## Knowledge
 
+* [Wisdom](knowledge/wisdom.md)
 * [Food, Drink](knowledge/food-drink/README.md)
   * [Coffee](knowledge/food-drink/coffee.md)
 * ["Productivity"](knowledge/productivity/README.md)
   * [Personal Knowledge Management](knowledge/productivity/personal-knowledge-management/README.md)
     * [Digital Gardening](knowledge/productivity/personal-knowledge-management/digital-gardening.md)
 * [Programming Languages](knowledge/programming-languages/README.md)
+  * [Clojure](knowledge/programming-languages/clojure.md)
   * [Golang](knowledge/programming-languages/golang.md)
   * [Python](knowledge/programming-languages/python.md)
   * [Esoteric languages](knowledge/programming-languages/esoteric-languages/README.md)

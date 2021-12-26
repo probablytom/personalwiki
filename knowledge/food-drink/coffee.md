@@ -24,9 +24,13 @@ Coffee! Caffeine! It's the most magical drink in my cupboard.
 
 * Papercup
 * Dear Green
+* Good Coffee Cartel
 * Thompsons
+* The Steamie
 * Gordon St. Coffee still does some darker stuff if that's your jam
 * Grain & Grind does some curious stuff (chinese coffee!), but generally it lacks nuance etc flavour-wise.
+
+
 
 ### Edinburgh
 
