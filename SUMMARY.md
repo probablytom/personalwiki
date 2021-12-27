@@ -35,7 +35,8 @@
     * [Befunge](knowledge/programming-languages/esoteric-languages/befunge.md)
     * [Brainfuck](knowledge/programming-languages/esoteric-languages/brainfuck.md)
     * [Piet](knowledge/programming-languages/esoteric-languages/piet.md)
-  * [APL](knowledge/programming-languages/apl.md)
+  * [APL](knowledge/programming-languages/apl/README.md)
+    * [J](knowledge/programming-languages/apl/j.md)
   * [C](knowledge/programming-languages/c.md)
   * [Racket](knowledge/programming-languages/racket.md)
 
