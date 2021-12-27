@@ -11,6 +11,10 @@ Note that there's another in the APL family that's been gaining some traction la
 [j.md](j.md)
 {% endcontent-ref %}
 
+## Notes
+
+* [APL doesnt really support higher-order functions but there are hacks around custom-defined operators or namespaces thst can get you similar features.](https://stackoverflow.com/questions/19845964/pass-function-as-an-argument-in-apl)
+
 ## Links
 
 * Keith Smillie — My Life in Array Languages
