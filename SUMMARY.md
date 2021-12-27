@@ -29,6 +29,7 @@
   * [Time budgeting](knowledge/productivity/time-budgeting.md)
 * [#⃣ Programming Languages](knowledge/programming-languages/README.md)
   * [Clojure](knowledge/programming-languages/clojure.md)
+  * [COBOL](knowledge/programming-languages/cobol.md)
   * [Golang](knowledge/programming-languages/golang.md)
   * [Python](knowledge/programming-languages/python.md)
   * [Esoteric languages](knowledge/programming-languages/esoteric-languages/README.md)

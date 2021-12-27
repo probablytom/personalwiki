@@ -16,4 +16,5 @@ Note that there's another in the APL family that's been gaining some traction la
 * Keith Smillie — My Life in Array Languages
   * I can't find a link for this! The only one people seem to have used is to Keith Smillie's original .pdf on his University of Alberta personal space, which seems to be defunct now that he's passed away.
 * [Keith Smillie — Discovering Array Languages](http://archive.vector.org.uk/art10008110)
+* [Keith Smillie — A Lecture on Array Languages](https://dl.acm.org/doi/pdf/10.1145/360487.360488)
 
