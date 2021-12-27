@@ -1,2 +1,2 @@
-# Mental tools
+# 🧰 Mental tools
 
