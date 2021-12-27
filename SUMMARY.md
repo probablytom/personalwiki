@@ -5,11 +5,26 @@
 ## Knowledge
 
 * [Wisdom](knowledge/wisdom.md)
+* [Mental tools](knowledge/mental-tools/README.md)
+  * [Calcification](knowledge/mental-tools/calcification.md)
+  * [Compounding](knowledge/mental-tools/compounding.md)
+  * [Ephemerality](knowledge/mental-tools/ephemerality.md)
+  * [Epistemic Humility](knowledge/mental-tools/epistemic-humility.md)
+  * [Inboxes](knowledge/mental-tools/inboxes.md)
+  * [Mental Toolbox](knowledge/mental-tools/mental-toolbox.md)
+  * [Nutrition](knowledge/mental-tools/nutrition.md)
+  * [Negative Feedback Loop](knowledge/mental-tools/negative-feedback-loop.md)
+  * [Shifting Baselines](knowledge/mental-tools/shifting-baselines.md)
+  * [Social Cooling](knowledge/mental-tools/social-cooling.md)
+  * [Stock & Flow](knowledge/mental-tools/stock-and-flow.md)
+  * [Positive Feedback Loop](knowledge/mental-tools/positive-feedback-loop.md)
+  * [Transcience](knowledge/mental-tools/transcience.md)
 * [Food, Drink](knowledge/food-drink/README.md)
   * [Coffee](knowledge/food-drink/coffee.md)
 * ["Productivity"](knowledge/productivity/README.md)
   * [Personal Knowledge Management](knowledge/productivity/personal-knowledge-management/README.md)
     * [Digital Gardening](knowledge/productivity/personal-knowledge-management/digital-gardening.md)
+    * [Ephemerality of personal notes](knowledge/productivity/personal-knowledge-management/ephemerality-of-personal-notes.md)
 * [Programming Languages](knowledge/programming-languages/README.md)
   * [Clojure](knowledge/programming-languages/clojure.md)
   * [Golang](knowledge/programming-languages/golang.md)
@@ -24,6 +39,8 @@
 
 ## Reading notes
 
+* [Books](reading-notes/books/README.md)
+  * [Michael Pollan — Caffeine](reading-notes/books/michael-pollan-caffeine.md)
 * [Papers](reading-notes/papers/README.md)
   * [Polski — Life's Irreducible Structure](reading-notes/papers/polski-lifes-irreducible-structure.md)
   * [Minsky — Why People Think Computers Can't](reading-notes/papers/minsky-why-people-think-computers-cant.md)

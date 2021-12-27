@@ -6,8 +6,8 @@ Personal Knowledge Management (PKM) has become very popular lately, and there's 
 2. It _was_ popular! [Digital Gardening](digital-gardening.md) was an early cousin of blogging, and has now been rolled into a lot of discussions around Zettelkasten.
 3. As people increasingly live and work digitally, an increasing number of people are struggling with becoming knowledge workers.
 
-PKM can come in a few flavours:
+PKM often involves tracking things like what you know and what you need to do.
 
-* Tracking _knowledge_
+
 
 __

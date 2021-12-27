@@ -6,8 +6,6 @@
 
 ### How do people make them?
 
-**TODO:** write about different tools people use for digital gardening
-
 
 
 ## Digital gardens I like

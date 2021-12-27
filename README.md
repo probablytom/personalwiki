@@ -1,5 +1,6 @@
 ---
 coverY: 0
+cover: .gitbook/assets/DSCF6264.JPG
 ---
 
 # Index
